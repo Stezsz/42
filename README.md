@@ -14,7 +14,7 @@
 ---
 
 <h1 align="center">
-	1337
+	42
 </h1>
 
 <p align="center">
