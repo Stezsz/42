@@ -13,6 +13,15 @@
 ```
 ---
 
+<h1 align="center">
+	1337
+</h1>
+
+<p align="center">
+	<b><i>Projects developed at 42 </a> programming school.</i></b><br>
+	Start date: 22/Jan/2024 - 16/Feb/2024!
+</p>
+
  # Table of Content
 | Projects      | Solutions  |
 | :--------------:| :----------:|
